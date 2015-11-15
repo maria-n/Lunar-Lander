@@ -1,6 +1,6 @@
 A Lunar Lander in Javascript
 
-This studentprojecct was coded using html, javascript, css and jquery-2.1.4.
+This student project/ homework was coded using html, javascript, css and jquery-2.1.4.
 It was tested in Firefox ver. 39 and Chrome and Chrome ver. 46.
 
 While I used the Internet as my friend and helper and I didn't write every bit of Code myself, I maintain most of the Ownership.
